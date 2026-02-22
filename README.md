@@ -46,6 +46,7 @@ NLP & Multimodal AI          █████████████░░░░
 | [**ai-landscape-2025**](https://github.com/mlnjsh/ai-landscape-2025) | Quantum computing, AI summits, Silicon Valley tracker, tool releases & upgrades |
 | [**prompts-for-everything**](https://github.com/mlnjsh/prompts-for-everything) | 500+ curated AI prompts — Manim, video, image, LLM, coding, music, business |
 | [**countrywise-ai**](https://github.com/mlnjsh/countrywise-ai) | How 30+ countries compete in AI — rankings, investment, talent, policy reports |
+| [**ai-healthcare-complete**](https://github.com/mlnjsh/ai-healthcare-complete) | Complete AI in healthcare guide — imaging, surgery, oncology, EHR, agents, drug discovery |
 | [**TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis application for high-dimensional data |
 
 ---
