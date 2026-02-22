@@ -69,6 +69,7 @@ Context Engineering          █████████████░░░░
 | [:robot: **Ask My AI Clone**](https://github.com/mlnjsh/ask-my-ai-clone) | AI/RAG | Chat with an AI trained on 15+ research papers — RAG + LangChain |
 | [:satellite: **AI Research Radar**](https://github.com/mlnjsh/ai-research-radar) | Automation | Self-updating arXiv paper tracker — GitHub Actions every 6 hours |
 | [:clapper: **Animated Proof Gallery**](https://github.com/mlnjsh/animated-proof-gallery) | Math/Viz | Manim-powered proof animations — TDA, Fixed Point, SVM, Pareto |
+| [:mortar_board: **PhD Survival Kit**](https://github.com/mlnjsh/phd-survival-kit) | Academia | Paper writing, LaTeX templates, reviewer responses, Best Paper story |
 | [:books: **Publications**](https://github.com/mlnjsh/publications-milan-joshi) | Research | Complete portfolio — 15 papers, DOI links, BibTeX, collaboration map |
 | [:brain: **Context Engineering**](https://github.com/mlnjsh/context-engineering) | AI/LLM | 34+ papers, 22+ videos, 27+ blogs, tools, techniques, roadmap |
 | [:hospital: **AI Healthcare**](https://github.com/mlnjsh/ai-healthcare-complete) | AI Research | Imaging, surgery, oncology, EHR, agents, drug discovery |
