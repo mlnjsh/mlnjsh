@@ -1,5 +1,5 @@
 <h1 align="center">Milan Amrut Joshi</h1>
-<h3 align="center">Methematician | Agentic Engineer</h3>
+<h3 align="center">Mathematician | Agentic Engineer</h3>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
