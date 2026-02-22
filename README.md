@@ -35,11 +35,13 @@ NLP & Multimodal AI          █████████████░░░░
 
 | Project | Description |
 |---------|-------------|
-| [**rl-book-labs**](https://github.com/mlnjsh/rl-book-labs) | Interactive browser-based labs for Reinforcement Learning — visualize algorithms and watch agents learn in real-time |
-| [**TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis application for exploring high-dimensional data structures |
-| [**Agentic-AI**](https://github.com/mlnjsh/Agentic-AI) | Experiments with autonomous AI agents, tool use, and multi-agent systems |
-| [**ai-science-personal-projects**](https://github.com/mlnjsh/ai-science-personal-projects) | Applied AI, Computer Vision, LLM & Multimodal projects |
-| [**Applied-Machine-Learning-with-python**](https://github.com/mlnjsh/Applied-Machine-Learning-with-python) | Course materials for Applied Machine Learning — lectures, notebooks, and assignments |
+| [**awesome-agentic-ai**](https://github.com/mlnjsh/awesome-agentic-ai) | Curated list of 100+ Agentic AI frameworks, papers, tools, and resources |
+| [**ml-algorithms-from-scratch**](https://github.com/mlnjsh/ml-algorithms-from-scratch) | 10 ML algorithms implemented from scratch in Python with only NumPy |
+| [**optimization-algorithms-visual-guide**](https://github.com/mlnjsh/optimization-algorithms-visual-guide) | 9 optimizers (GD to Adam) with benchmark functions and visualizations |
+| [**math-foundations-for-ai**](https://github.com/mlnjsh/math-foundations-for-ai) | Essential math for AI — linear algebra, calculus, probability, info theory, optimization |
+| [**data-science-cheatsheets**](https://github.com/mlnjsh/data-science-cheatsheets) | 11 comprehensive cheatsheets for Python, SQL, ML, DL, Pandas, and more |
+| [**rl-book-labs**](https://github.com/mlnjsh/rl-book-labs) | Interactive browser-based labs for Reinforcement Learning |
+| [**TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis application for high-dimensional data |
 
 ---
 
