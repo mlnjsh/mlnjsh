@@ -1,10 +1,20 @@
-<h1 align="center">Milan Amrut Joshi</h1>
-<h3 align="center">Mathematician | Agentic Engineer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Milan+Amrut+Joshi;Mathematician+%7C+Agentic+Engineer;15%2B+Research+Publications;AI+%7C+TDA+%7C+Machine+Learning" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://github.com/mlnjsh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/dr-milan-joshi-0125aa15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mlnjsh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Publications-15+-blueviolet?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/SCI%2FSCIE-3_Papers-dc2626?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Impact_Factor-Up_to_3.89-0ea5e9?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Best_Paper-ICIVC_2021-FFD700?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Repos-17+-10b981?style=flat-square&labelColor=1a1a2e" />
 </p>
 
 ---
@@ -22,6 +32,7 @@
 - Strong interest in **Reinforcement Learning, Generative AI, Agentic AI systems, and applied computer vision**, with emphasis on connecting theory to deployment: data pipelines, experimentation, model tracking, and production-ready applications.
 
 - My goal is to make advanced concepts approachable. Whether explaining linear algebra behind neural networks, debugging a model, or reviewing a research idea, I focus on clarity, intuition, and structured thinking rather than jargon.
+
 ---
 
 ### Research & Focus Areas
@@ -31,30 +42,46 @@ Topological Data Analysis    █████████████████
 Machine Learning & Deep Learning  █████████████████░░░  85%
 Reinforcement Learning       ████████████████░░░░   80%
 Generative AI & LLMs         ███████████████░░░░░   75%
-MLOps & Production ML        ██████████████░░░░░░   70%
-NLP & Multimodal AI          █████████████░░░░░░░   65%
+Multi-Objective Optimization ██████████████░░░░░░   70%
+Context Engineering          █████████████░░░░░░░   65%
 ```
+
+---
+
+### :scroll: Selected Publications
+
+| # | Paper | Journal | IF |
+|:-:|:------|:--------|:--:|
+| 1 | [Comparison of NSGA-II, MOALO & MODA for Micro-Machining](https://doi.org/10.3390/ma14175109) | *Materials* (2021) | 3.625 |
+| 2 | [Response Surface for Multi-Objective Optimization of Composites](https://doi.org/10.12989/scs.2019.32.4.455) | *Steel & Composite Structures* (2019) | 3.89 |
+| 3 | [PSO-Tuned SVM Metamodels for Turbulent Flows](https://doi.org/10.1108/EC-02-2019-0073) | *Engineering Computations* (2020) | 1.246 |
+| 4 | [Persistent Homology for Big Data & Machine Intelligence](https://doi.org/10.1007/978-981-15-1366-4) | *Springer AISC* (2020) | -- |
+| 5 | TDA Feature Extraction :trophy: **Best Paper Award** | *ICIVC-2021, Oman* | -- |
+
+> :point_right: **[View all 15 publications with DOI links & BibTeX](https://github.com/mlnjsh/publications-milan-joshi)**
 
 ---
 
 ### Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [**awesome-agentic-ai**](https://github.com/mlnjsh/awesome-agentic-ai) | Curated list of 100+ Agentic AI frameworks, papers, tools, and resources |
-| [**ml-algorithms-from-scratch**](https://github.com/mlnjsh/ml-algorithms-from-scratch) | 10 ML algorithms implemented from scratch in Python with only NumPy |
-| [**optimization-algorithms-visual-guide**](https://github.com/mlnjsh/optimization-algorithms-visual-guide) | 9 optimizers (GD to Adam) with benchmark functions and visualizations |
-| [**math-foundations-for-ai**](https://github.com/mlnjsh/math-foundations-for-ai) | Essential math for AI — linear algebra, calculus, probability, info theory, optimization |
-| [**data-science-cheatsheets**](https://github.com/mlnjsh/data-science-cheatsheets) | 11 comprehensive cheatsheets for Python, SQL, ML, DL, Pandas, and more |
-| [**rl-book-labs**](https://github.com/mlnjsh/rl-book-labs) | Interactive browser-based labs for Reinforcement Learning |
-| [**awesome-ai-tools-and-resources**](https://github.com/mlnjsh/awesome-ai-tools-and-resources) | AI tools (video, audio, PPT), YouTube channels, FAANG blogs, open-source alternatives |
-| [**mcp-servers-collection**](https://github.com/mlnjsh/mcp-servers-collection) | 6 MCP servers for Claude — Manim, ML Toolkit, Data Science, Zomato, Swiggy, arXiv |
-| [**ai-landscape-2025**](https://github.com/mlnjsh/ai-landscape-2025) | Quantum computing, AI summits, Silicon Valley tracker, tool releases & upgrades |
-| [**prompts-for-everything**](https://github.com/mlnjsh/prompts-for-everything) | 500+ curated AI prompts — Manim, video, image, LLM, coding, music, business |
-| [**countrywise-ai**](https://github.com/mlnjsh/countrywise-ai) | How 30+ countries compete in AI — rankings, investment, talent, policy reports |
-| [**ai-healthcare-complete**](https://github.com/mlnjsh/ai-healthcare-complete) | Complete AI in healthcare guide — imaging, surgery, oncology, EHR, agents, drug discovery |
-| [**n8n-workflows-mega**](https://github.com/mlnjsh/n8n-workflows-mega) | 5,000+ n8n workflow automations across 20 categories, 400+ integrations |
-| [**TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis application for high-dimensional data |
+| Project | Category | Description |
+|:--------|:---------|:------------|
+| [:books: **Publications**](https://github.com/mlnjsh/publications-milan-joshi) | Research | Complete portfolio — 15 papers, DOI links, BibTeX, collaboration map |
+| [:brain: **Context Engineering**](https://github.com/mlnjsh/context-engineering) | AI/LLM | 34+ papers, 22+ videos, 27+ blogs, tools, techniques, roadmap |
+| [:hospital: **AI Healthcare**](https://github.com/mlnjsh/ai-healthcare-complete) | AI Research | Imaging, surgery, oncology, EHR, agents, drug discovery |
+| [:wrench: **n8n Workflows**](https://github.com/mlnjsh/n8n-workflows-mega) | Automation | 5,000+ workflows, 20 categories, 400+ integrations, JSONs |
+| [:robot: **Agentic AI**](https://github.com/mlnjsh/awesome-agentic-ai) | AI Research | 100+ agentic AI frameworks, papers, tools & resources |
+| [:bar_chart: **ML From Scratch**](https://github.com/mlnjsh/ml-algorithms-from-scratch) | Education | 10 ML algorithms from scratch in Python with NumPy |
+| [:triangular_ruler: **Math for AI**](https://github.com/mlnjsh/math-foundations-for-ai) | Education | Linear algebra, calculus, probability, info theory for AI |
+| [:chart_with_upwards_trend: **Optimization Guide**](https://github.com/mlnjsh/optimization-algorithms-visual-guide) | Education | 9 optimizers (GD to Adam) with benchmarks & visuals |
+| [:page_facing_up: **DS Cheatsheets**](https://github.com/mlnjsh/data-science-cheatsheets) | Reference | 11 cheatsheets for Python, SQL, ML, DL, Pandas |
+| [:bulb: **Prompts**](https://github.com/mlnjsh/prompts-for-everything) | AI Tools | 500+ curated AI prompts — Manim, video, image, coding |
+| [:earth_americas: **Countrywise AI**](https://github.com/mlnjsh/countrywise-ai) | AI Research | 30+ countries — rankings, investment, talent, policy |
+| [:telescope: **AI Landscape**](https://github.com/mlnjsh/ai-landscape-2025) | AI Research | Quantum computing, summits, tool releases, trends |
+| [:electric_plug: **MCP Servers**](https://github.com/mlnjsh/mcp-servers-collection) | AI Tools | 6 MCP servers for Claude — Manim, ML, Data Science |
+| [:hammer_and_wrench: **AI Tools**](https://github.com/mlnjsh/awesome-ai-tools-and-resources) | Reference | Video, audio, PPT tools, YouTube channels, FAANG blogs |
+| [:video_game: **RL Labs**](https://github.com/mlnjsh/rl-book-labs) | Education | Interactive Reinforcement Learning labs in browser |
+| [:gem: **TopoVista**](https://github.com/mlnjsh/TopoVista) | Research | Topological Data Analysis application |
 
 ---
 
@@ -72,6 +99,8 @@ NLP & Multimodal AI          █████████████░░░░
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 </p>
 
 ---
@@ -91,4 +120,8 @@ NLP & Multimodal AI          █████████████░░░░
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mlnjsh&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>"From pure mathematics to applied AI — bridging theory and impact."</i>
 </p>
