@@ -11,11 +11,17 @@
 
 ### About Me
 
-- Faculty at **Northwestern University**, teaching and researching at the intersection of Data Science, Machine Learning, and Applied AI
-- PhD researcher in **Topological Data Analysis** and high-dimensional data methods
-- Building tools and curricula that make advanced ML concepts accessible and interactive
-- Passionate about **Reinforcement Learning**, **Generative AI**, **MLOps**, and **Computer Vision**
+- Senior educator and practitioner in **Artificial Intelligence, Data Science, and Applied Mathematics**, currently teaching graduate and professional learners across industry-oriented programs. My teaching focuses on turning mathematically heavy ideas into clear, practical intuition that learners can immediately apply.
 
+- Instructor and curriculum designer for topics including **Machine Learning, Deep Learning, Generative AI, Reinforcement Learning, Time Series Analysis, and MLOps**. I regularly create structured lesson plans, hands-on labs, and project-based learning experiences where students implement models, analyze real datasets, and deploy systems end-to-end.
+
+- Research interests include **learning from complex and high-dimensional data**, interpretable modeling, and practical AI systems. I guide postgraduate student projects, evaluate research proposals, and help refine problem statements so that they contain novelty, measurable outcomes, and real-world relevance.
+
+- Builder of educational and AI learning tools such as interactive mathematical whiteboards, visualization systems, and AI-assisted academic workflows. These tools help students visualize vectors, optimization, neural networks, and reinforcement learning rather than memorizing formulas.
+
+- Strong interest in **Reinforcement Learning, Generative AI, Agentic AI systems, and applied computer vision**, with emphasis on connecting theory to deployment: data pipelines, experimentation, model tracking, and production-ready applications.
+
+- My goal is to make advanced concepts approachable. Whether explaining linear algebra behind neural networks, debugging a model, or reviewing a research idea, I focus on clarity, intuition, and structured thinking rather than jargon.
 ---
 
 ### Research & Focus Areas
