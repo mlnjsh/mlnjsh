@@ -47,6 +47,7 @@ NLP & Multimodal AI          █████████████░░░░
 | [**prompts-for-everything**](https://github.com/mlnjsh/prompts-for-everything) | 500+ curated AI prompts — Manim, video, image, LLM, coding, music, business |
 | [**countrywise-ai**](https://github.com/mlnjsh/countrywise-ai) | How 30+ countries compete in AI — rankings, investment, talent, policy reports |
 | [**ai-healthcare-complete**](https://github.com/mlnjsh/ai-healthcare-complete) | Complete AI in healthcare guide — imaging, surgery, oncology, EHR, agents, drug discovery |
+| [**n8n-workflows-mega**](https://github.com/mlnjsh/n8n-workflows-mega) | 5,000+ n8n workflow automations across 20 categories, 400+ integrations |
 | [**TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis application for high-dimensional data |
 
 ---
