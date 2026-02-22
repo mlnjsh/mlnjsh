@@ -41,6 +41,7 @@ NLP & Multimodal AI          █████████████░░░░
 | [**math-foundations-for-ai**](https://github.com/mlnjsh/math-foundations-for-ai) | Essential math for AI — linear algebra, calculus, probability, info theory, optimization |
 | [**data-science-cheatsheets**](https://github.com/mlnjsh/data-science-cheatsheets) | 11 comprehensive cheatsheets for Python, SQL, ML, DL, Pandas, and more |
 | [**rl-book-labs**](https://github.com/mlnjsh/rl-book-labs) | Interactive browser-based labs for Reinforcement Learning |
+| [**awesome-ai-tools-and-resources**](https://github.com/mlnjsh/awesome-ai-tools-and-resources) | AI tools (video, audio, PPT), YouTube channels, FAANG blogs, open-source alternatives |
 | [**TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis application for high-dimensional data |
 
 ---
