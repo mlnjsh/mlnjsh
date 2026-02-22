@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/SCI%2FSCIE-3_Papers-dc2626?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Impact_Factor-Up_to_3.89-0ea5e9?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Best_Paper-ICIVC_2021-FFD700?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Repos-17+-10b981?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Repos-20+-10b981?style=flat-square&labelColor=1a1a2e" />
 </p>
 
 ---
@@ -66,6 +66,9 @@ Context Engineering          █████████████░░░░
 
 | Project | Category | Description |
 |:--------|:---------|:------------|
+| [:robot: **Ask My AI Clone**](https://github.com/mlnjsh/ask-my-ai-clone) | AI/RAG | Chat with an AI trained on 15+ research papers — RAG + LangChain |
+| [:satellite: **AI Research Radar**](https://github.com/mlnjsh/ai-research-radar) | Automation | Self-updating arXiv paper tracker — GitHub Actions every 6 hours |
+| [:clapper: **Animated Proof Gallery**](https://github.com/mlnjsh/animated-proof-gallery) | Math/Viz | Manim-powered proof animations — TDA, Fixed Point, SVM, Pareto |
 | [:books: **Publications**](https://github.com/mlnjsh/publications-milan-joshi) | Research | Complete portfolio — 15 papers, DOI links, BibTeX, collaboration map |
 | [:brain: **Context Engineering**](https://github.com/mlnjsh/context-engineering) | AI/LLM | 34+ papers, 22+ videos, 27+ blogs, tools, techniques, roadmap |
 | [:hospital: **AI Healthcare**](https://github.com/mlnjsh/ai-healthcare-complete) | AI Research | Imaging, surgery, oncology, EHR, agents, drug discovery |
@@ -98,6 +101,8 @@ Context Engineering          █████████████░░░░
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Manim-58b7ff?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
