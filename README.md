@@ -44,6 +44,8 @@ NLP & Multimodal AI          █████████████░░░░
 | [**awesome-ai-tools-and-resources**](https://github.com/mlnjsh/awesome-ai-tools-and-resources) | AI tools (video, audio, PPT), YouTube channels, FAANG blogs, open-source alternatives |
 | [**mcp-servers-collection**](https://github.com/mlnjsh/mcp-servers-collection) | 6 MCP servers for Claude — Manim, ML Toolkit, Data Science, Zomato, Swiggy, arXiv |
 | [**ai-landscape-2025**](https://github.com/mlnjsh/ai-landscape-2025) | Quantum computing, AI summits, Silicon Valley tracker, tool releases & upgrades |
+| [**prompts-for-everything**](https://github.com/mlnjsh/prompts-for-everything) | 500+ curated AI prompts — Manim, video, image, LLM, coding, music, business |
+| [**countrywise-ai**](https://github.com/mlnjsh/countrywise-ai) | How 30+ countries compete in AI — rankings, investment, talent, policy reports |
 | [**TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis application for high-dimensional data |
 
 ---
