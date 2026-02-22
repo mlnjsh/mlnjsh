@@ -42,6 +42,8 @@ NLP & Multimodal AI          █████████████░░░░
 | [**data-science-cheatsheets**](https://github.com/mlnjsh/data-science-cheatsheets) | 11 comprehensive cheatsheets for Python, SQL, ML, DL, Pandas, and more |
 | [**rl-book-labs**](https://github.com/mlnjsh/rl-book-labs) | Interactive browser-based labs for Reinforcement Learning |
 | [**awesome-ai-tools-and-resources**](https://github.com/mlnjsh/awesome-ai-tools-and-resources) | AI tools (video, audio, PPT), YouTube channels, FAANG blogs, open-source alternatives |
+| [**mcp-servers-collection**](https://github.com/mlnjsh/mcp-servers-collection) | 6 MCP servers for Claude — Manim, ML Toolkit, Data Science, Zomato, Swiggy, arXiv |
+| [**ai-landscape-2025**](https://github.com/mlnjsh/ai-landscape-2025) | Quantum computing, AI summits, Silicon Valley tracker, tool releases & upgrades |
 | [**TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis application for high-dimensional data |
 
 ---
