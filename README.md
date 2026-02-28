@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Milan%20Amrut%20Joshi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Mathematician%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Agentic%20Engineer&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- Animated Typing SVG with fun rotating words -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=620&height=45&lines=%F0%9F%94%AE+Baking+something+magical;%F0%9F%9A%B6+Moseying+through+neural+nets;%F0%9F%93%A1+Channeling+the+spirit+of+topology;%F0%9F%A4%94+Considering+the+loss+landscape;%F0%9F%8C%BA+Unfurling+gradient+descent+paths;%F0%9F%A6%A2+Honking+at+overfitting+models;%F0%9F%A7%A0+Cerebrating+on+persistent+homology;%E2%9A%A1+Generating+agentic+AI+workflows;%F0%9F%92%AD+Imagining+new+optimizers;%F0%9F%94%8D+Deciphering+attention+mechanisms;%F0%9F%8F%94%EF%B8%8F+Contemplating+Hilbert+spaces;%F0%9F%8E%AC+Actioning+RL+policies;%F0%9F%8C%B8+Frolicking+through+vector+fields;%F0%9F%94%AC+Inferring+latent+representations;%F0%9F%8D%B3+Marinating+ideas+in+Bayesian+priors;%F0%9F%A5%9A+Incubating+the+next+paper;%F0%9F%94%A7+Combobulating+multi-agent+systems;%F0%9F%8C%80+Meandering+through+manifold+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=580&height=40&lines=%F0%9F%94%AE+Baking+something+magical;%F0%9F%9A%B6+Moseying+through+neural+nets;%F0%9F%93%A1+Channeling+the+spirit+of+topology;%F0%9F%A4%94+Considering+the+loss+landscape;%F0%9F%8C%BA+Unfurling+gradient+descent+paths;%F0%9F%A6%A2+Honking+at+overfitting+models;%F0%9F%A7%A0+Cerebrating+on+persistent+homology;%E2%9A%A1+Generating+agentic+AI+workflows;%F0%9F%92%AD+Imagining+new+optimizers;%F0%9F%94%8D+Deciphering+attention+mechanisms;%F0%9F%8F%94%EF%B8%8F+Contemplating+Hilbert+spaces;%F0%9F%8E%AC+Actioning+RL+policies;%F0%9F%8C%B8+Frolicking+through+vector+fields;%F0%9F%94%AC+Inferring+latent+representations;%F0%9F%8D%B3+Marinating+ideas+in+Bayesian+priors;%F0%9F%A5%9A+Incubating+the+next+paper;%F0%9F%94%A7+Combobulating+multi-agent+systems;%F0%9F%8C%80+Meandering+through+manifold+learning" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -46,7 +46,7 @@ Senior educator & practitioner in **AI, Data Science & Applied Mathematics**, cu
 - &#x1F916; **Building:** Agentic AI systems, RAG pipelines, ML tools & educational platforms
 - &#x1F4D0; **Teaching:** ML, DL, GenAI, RL, Time Series, MLOps &#x2014; with hands-on labs & visual intuition
 - &#x1F3C6; **Best Paper Award** at ICIVC 2021 (Oman) &#x2014; TDA Feature Extraction
-- &#x1F4E6; **Published:** [`timesage-ts`](https://pypi.org/project/timesage-ts/) on PyPI &#x2014; The Wise Time Series Library
+- &#x1F4E6; **Published:** [`timesage-ts`](https://pypi.org/project/timesage-ts/) on PyPI &#x2014; The Wise Time Series Library &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlnjsh/timesage/blob/master/notebooks/timesage_demo.ipynb)
 - &#x1F310; **Website:** [mathcanvasmj.com](https://mathcanvasmj.com/) &#x2014; AI-Powered Visual Math & Science Whiteboard
 - &#x1F917; **Hugging Face:** [6 Live AI Spaces](https://huggingface.co/mlnjsh) &#x2014; PRO member, building interactive ML apps
 
@@ -217,6 +217,8 @@ Context Engineering           █████████████░░░�
 ### &#x1F680; Featured Projects
 
 <div align="center">
+
+[![Open Demo In Colab](https://img.shields.io/badge/Open_Demo-Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/mlnjsh/timesage/blob/master/notebooks/timesage_demo.ipynb)
 
 <a href="https://github.com/mlnjsh/timesage">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlnjsh&repo=timesage&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=F18F01" />
