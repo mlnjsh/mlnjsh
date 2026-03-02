@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Impact_Factor-Up_to_3.89-0ea5e9?style=flat-square&labelColor=0d1117&logo=researchgate&logoColor=white" />
 <img src="https://img.shields.io/badge/Best_Paper-ICIVC_2021-FFD700?style=flat-square&labelColor=0d1117&logo=star&logoColor=FFD700" />
 <img src="https://img.shields.io/badge/GitHub_Repos-45+-10b981?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/%F0%9F%A4%97_HF_Spaces-6_Apps-FF9D00?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%97_HF_Spaces-10_Apps-FF9D00?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/PyPI-timesage--ts-3775A9?style=flat-square&labelColor=0d1117&logo=pypi&logoColor=white" />
 
 </div>
@@ -48,7 +48,8 @@ Senior educator & practitioner in **AI, Data Science & Applied Mathematics**, cu
 - &#x1F3C6; **Best Paper Award** at ICIVC 2021 (Oman) &#x2014; TDA Feature Extraction
 - &#x1F4E6; **Published:** [`timesage-ts`](https://pypi.org/project/timesage-ts/) on PyPI &#x2014; The Wise Time Series Library &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlnjsh/timesage/blob/master/notebooks/timesage_demo.ipynb)
 - &#x1F310; **Website:** [mathcanvasmj.com](https://mathcanvasmj.com/) &#x2014; AI-Powered Visual Math & Science Whiteboard
-- &#x1F917; **Hugging Face:** [6 Live AI Spaces](https://huggingface.co/mlnjsh) &#x2014; PRO member, building interactive ML apps
+- &#x1F917; **Hugging Face:** [10 Live AI Spaces](https://huggingface.co/mlnjsh) &#x2014; PRO member, building interactive ML apps
+- &#x1F3E5; **Healthcare AI:** [4-Bot Clinical Suite](https://huggingface.co/mlnjsh) &#x2014; Diagnosis, Mental Health, Radiology, Anesthesia
 
 <br clear="right"/>
 
@@ -175,7 +176,188 @@ An **AI-powered visual whiteboard** for mathematics and science education. Desig
 <br/><br/>
 </td>
 </tr>
+<tr>
+<td align="center" width="330">
+<br/>
+<h3>&#x1FA7A; MedDiag-Pro</h3>
+<a href="https://huggingface.co/spaces/mlnjsh/MedDiag-Pro">
+<img src="https://img.shields.io/badge/%F0%9F%A4%97_Try_It_Live-Running-brightgreen?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br/><br/>
+<i>AI-powered clinical diagnosis with voice stress analysis, drug interactions, document parsing & RAG</i>
+<br/><br/>
+<img src="https://img.shields.io/badge/Healthcare-dc2626?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Multimodal-10b981?style=flat-square" />
+<br/><br/>
+</td>
+<td align="center" width="330">
+<br/>
+<h3>&#x1F9E0; MindCare-AI</h3>
+<a href="https://huggingface.co/spaces/mlnjsh/MindCare-AI">
+<img src="https://img.shields.io/badge/%F0%9F%A4%97_Try_It_Live-Running-brightgreen?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br/><br/>
+<i>Mental health support with 6 therapy modalities, voice stress, facial emotion AI & crisis detection</i>
+<br/><br/>
+<img src="https://img.shields.io/badge/Mental_Health-0ea5e9?style=flat-square" /> <img src="https://img.shields.io/badge/CBT%2FDBT-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Multimodal-10b981?style=flat-square" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="330">
+<br/>
+<h3>&#x1F4CB; RadiScan-AI</h3>
+<a href="https://huggingface.co/spaces/mlnjsh/RadiScan-AI">
+<img src="https://img.shields.io/badge/%F0%9F%A4%97_Try_It_Live-Running-brightgreen?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br/><br/>
+<i>Medical imaging analysis &#x2014; X-ray, CT, MRI with DenseNet-121 pathology detection & GradCAM heatmaps</i>
+<br/><br/>
+<img src="https://img.shields.io/badge/Radiology-blueviolet?style=flat-square" /> <img src="https://img.shields.io/badge/DenseNet-dc2626?style=flat-square" /> <img src="https://img.shields.io/badge/GradCAM-FFD700?style=flat-square" />
+<br/><br/>
+</td>
+<td align="center" width="330">
+<br/>
+<h3>&#x1F489; AnestheBot-AI</h3>
+<a href="https://huggingface.co/spaces/mlnjsh/AnestheBot-AI">
+<img src="https://img.shields.io/badge/%F0%9F%A4%97_Try_It_Live-Running-brightgreen?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br/><br/>
+<i>World's first anesthesia AI &#x2014; real-time vitals, pharmacokinetic dosing, ASA classification & Mallampati</i>
+<br/><br/>
+<img src="https://img.shields.io/badge/Anesthesia-dc2626?style=flat-square" /> <img src="https://img.shields.io/badge/Pharmacokinetics-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/World_First-FFD700?style=flat-square" />
+<br/><br/>
+</td>
+</tr>
 </table>
+
+</div>
+
+---
+
+### &#x1F3E5; Healthcare AI Suite &#x2014; 4 Clinical Bots
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Healthcare_AI-4_Live_Bots-dc2626?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Built_With-Gradio_%2B_RAG_%2B_ONNX-6C63FF?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cost-100%25_Free_(No_GPU)-10b981?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+> A comprehensive **4-bot healthcare AI suite** built entirely on free Hugging Face Spaces (CPU-only).
+> Each bot features **RAG-powered knowledge retrieval** from WHO guidelines, clinical protocols, research papers & textbooks.
+> No API keys needed. No GPU required. Fully open source.
+
+<details open>
+<summary><h4>&#x1FA7A; Bot 1: MedDiag-Pro &#x2014; Advanced AI Diagnosis</h4></summary>
+
+**[&#x1F517; Try it live](https://huggingface.co/spaces/mlnjsh/MedDiag-Pro)**
+
+An AI-powered clinical diagnosis assistant that conducts multi-turn medical interviews like a physician.
+
+| Feature | Description |
+|:--------|:------------|
+| **Chain-of-Thought Diagnosis** | Differential diagnosis with step-by-step clinical reasoning |
+| **Urgency Triage** | RED / YELLOW / GREEN severity scoring with actionable advice |
+| **Voice Stress Analysis** | Record via microphone &#x2014; extracts pitch, jitter, shimmer, speech rate to score stress 0-100 |
+| **Document Upload** | Upload prescriptions, lab reports (PDF/image) &#x2014; auto-extracts medications, lab values, diagnoses |
+| **Drug Interaction Checker** | 100+ medication interactions with severity levels |
+| **RAG Knowledge Base** | 50+ medical sources: WHO guidelines, Harrison's, Robbins, AHA/ACC, NICE, PubMed |
+| **Patient History Memory** | Tracks symptoms, medications, vitals across the entire session |
+
+**How to use:**
+1. Open the **Clinical Chat** tab and describe your symptoms naturally
+2. The bot asks follow-up questions like a doctor (age, duration, severity, medications)
+3. Switch to **Voice Analysis** tab &#x2014; record a voice sample to detect stress biomarkers
+4. Switch to **Document Upload** tab &#x2014; upload a prescription/lab report PDF or image
+5. Extracted medications are auto-checked for drug interactions
+
+</details>
+
+<details open>
+<summary><h4>&#x1F9E0; Bot 2: MindCare-AI &#x2014; Mental Health Support</h4></summary>
+
+**[&#x1F517; Try it live](https://huggingface.co/spaces/mlnjsh/MindCare-AI)**
+
+A mental health support bot with 6 evidence-based therapy modalities and multimodal emotion detection.
+
+| Feature | Description |
+|:--------|:------------|
+| **6 Therapy Modalities** | CBT, DBT, ACT, Motivational Interviewing, Mindfulness, Psychoeducation |
+| **Emotion Detection** | Multi-dimensional sentiment analysis (valence + arousal + category) |
+| **Voice Stress Analysis** | Microphone recording &#x2014; detects anxiety markers via pitch, jitter, speech rate |
+| **Facial Expression AI** | Webcam capture &#x2014; 8-emotion classification (hsemotion + ONNX Runtime) |
+| **Multimodal Fusion** | Combines text (40%) + voice (30%) + face (30%) for holistic mood scoring |
+| **PHQ-9 & GAD-7** | Validated clinical screening tools for depression and anxiety |
+| **Crisis Detection** | Automatic crisis keyword detection with immediate safety resources (988, etc.) |
+| **Mood Tracking** | Visual mood trend chart across the session with trend analysis |
+| **Journaling** | AI-reflected journal entries with emotion analysis |
+
+**How to use:**
+1. Open the **Chat** tab and share how you're feeling
+2. Type `PHQ-9` or `GAD-7` to take validated depression/anxiety screenings
+3. Type `journal Today I felt...` to save a reflective journal entry
+4. Switch to **Voice Analysis** tab &#x2014; record your voice for stress biomarker detection
+5. Switch to **Facial Analysis** tab &#x2014; use your webcam for real-time emotion detection
+6. Type `CBT`, `DBT`, `ACT`, or `mindfulness` to switch therapy modes
+
+</details>
+
+<details open>
+<summary><h4>&#x1F4CB; Bot 3: RadiScan-AI &#x2014; Medical Imaging Analysis</h4></summary>
+
+**[&#x1F517; Try it live](https://huggingface.co/spaces/mlnjsh/RadiScan-AI)**
+
+The first chatbot that can actually analyze medical images with AI-powered pathology detection.
+
+| Feature | Description |
+|:--------|:------------|
+| **Multi-Modality Support** | Accepts X-ray, CT scan, and MRI image uploads |
+| **DenseNet-121 (CheXNet)** | Detects 14 chest pathologies (pneumonia, cardiomegaly, effusion, etc.) |
+| **GradCAM Heatmaps** | Visual overlay showing exactly where the AI is focusing |
+| **Natural Language Reports** | AI-generated radiology reports in plain language |
+| **Confidence Scoring** | Uncertainty quantification for each finding |
+| **Conversational Follow-up** | Ask questions about the AI's findings |
+| **RAG Knowledge Base** | Radiology guidelines, imaging protocols, pathology references |
+
+**How to use:**
+1. Upload a medical image (X-ray, CT, or MRI)
+2. The AI analyzes the image and generates a detailed report
+3. View the GradCAM heatmap to see which regions the AI flagged
+4. Ask follow-up questions about the findings in the chat
+
+</details>
+
+<details open>
+<summary><h4>&#x1F489; Bot 4: AnestheBot-AI &#x2014; Anesthesia Risk Assessment</h4></summary>
+
+**[&#x1F517; Try it live](https://huggingface.co/spaces/mlnjsh/AnestheBot-AI)**
+
+**World's first** AI anesthesia assistant &#x2014; no comparable tool exists in the market (as of 2026).
+
+| Feature | Description |
+|:--------|:------------|
+| **Real-Time Vitals Dashboard** | Live simulation of HR, BP, SpO2, EtCO2, temperature with alerts |
+| **Pharmacokinetic Dosing** | Marsh, Schnider & Minto models for propofol, remifentanil, fentanyl |
+| **ASA Classification** | Physical Status scoring (ASA I-VI) based on patient history |
+| **Mallampati Assessment** | Airway difficulty prediction (Class I-IV) |
+| **Drug Interaction Checker** | Anesthetic agent interactions (propofol, sevoflurane, succinylcholine, etc.) |
+| **Pre-Op Risk Calculator** | Cardiac, pulmonary, and bleeding risk stratification |
+| **RAG Knowledge Base** | Miller's Anesthesia, ASA guidelines, WHO surgical safety protocols |
+
+**How to use:**
+1. Start a chat and provide patient details (age, weight, medical history)
+2. The bot calculates ASA classification and pre-op risk scores
+3. Ask about drug dosing &#x2014; get pharmacokinetic calculations for specific agents
+4. Use the vitals dashboard to simulate intraoperative monitoring scenarios
+
+</details>
+
+<div align="center">
+
+**Architecture:** All 4 bots run on **free HF Spaces** (2 vCPU, 16GB RAM, zero GPU). Built with Gradio 5.50, BM25 RAG retrieval, librosa (voice), hsemotion-onnx (face), OpenCV, pdfplumber, and pytesseract.
 
 </div>
 
@@ -318,6 +500,10 @@ Context Engineering           █████████████░░░�
 
 | Project | Description |
 |:--------|:------------|
+| [&#x1FA7A; **MedDiag-Pro**](https://huggingface.co/spaces/mlnjsh/MedDiag-Pro) | AI diagnosis bot &#x2014; voice analysis, drug interactions, document parsing, RAG |
+| [&#x1F9E0; **MindCare-AI**](https://huggingface.co/spaces/mlnjsh/MindCare-AI) | Mental health bot &#x2014; 6 therapy modes, facial emotion AI, multimodal fusion |
+| [&#x1F4CB; **RadiScan-AI**](https://huggingface.co/spaces/mlnjsh/RadiScan-AI) | Medical imaging &#x2014; DenseNet-121 pathology detection, GradCAM heatmaps |
+| [&#x1F489; **AnestheBot-AI**](https://huggingface.co/spaces/mlnjsh/AnestheBot-AI) | World's first anesthesia AI &#x2014; vitals dashboard, pharmacokinetic dosing |
 | [&#x1F300; **TopoVista**](https://github.com/mlnjsh/TopoVista) | Topological Data Analysis interactive application |
 | [&#x1F3AF; **Manim Presentations**](https://github.com/mlnjsh/Projects) | Beamer + Manim animated slides for lectures |
 | [&#x1F3AC; **Video Analysis**](https://github.com/mlnjsh/video_analysis) | Object detection, tracking & action recognition |
