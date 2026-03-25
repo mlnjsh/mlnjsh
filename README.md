@@ -402,6 +402,12 @@ Context Engineering           █████████████░░░�
 
 [![Open Demo In Colab](https://img.shields.io/badge/Open_Demo-Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/mlnjsh/timesage/blob/master/notebooks/timesage_demo.ipynb)
 
+<a href="https://github.com/mlnjsh/Reinforcement_Learning_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlnjsh&repo=Reinforcement_Learning_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=F18F01" />
+</a>
+<a href="https://github.com/mlnjsh/Computer_Vision_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlnjsh&repo=Computer_Vision_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=F18F01" />
+</a>
 <a href="https://github.com/mlnjsh/timesage">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlnjsh&repo=timesage&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=F18F01" />
 </a>
@@ -410,12 +416,6 @@ Context Engineering           █████████████░░░�
 </a>
 <a href="https://github.com/mlnjsh/animated-proof-gallery">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlnjsh&repo=animated-proof-gallery&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=F18F01" />
-</a>
-<a href="https://github.com/mlnjsh/ask-my-ai-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlnjsh&repo=ask-my-ai-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=F18F01" />
-</a>
-<a href="https://github.com/mlnjsh/time-series-analysis-and-forecasting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlnjsh&repo=time-series-analysis-and-forecasting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=F18F01" />
 </a>
 <a href="https://github.com/mlnjsh/phd-survival-kit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlnjsh&repo=phd-survival-kit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=F18F01" />
@@ -471,6 +471,7 @@ Context Engineering           █████████████░░░�
 | [&#x1F9EE; **Linear Algebra for DS**](https://github.com/mlnjsh/Linear-Algebra-For-Data-Scientist) | Vectors, SVD, PCA with Python & visual intuitions |
 | [&#x1F522; **ML From Scratch**](https://github.com/mlnjsh/ml-algorithms-from-scratch) | 10 algorithms from scratch in NumPy with math |
 | [&#x1F4C9; **Optimization Guide**](https://github.com/mlnjsh/optimization-algorithms-visual-guide) | GD to Adam &#x2014; benchmarks, visuals, notebooks |
+| [&#x1F3AE; **RL From Scratch**](https://github.com/mlnjsh/Reinforcement_Learning_Projects) | 20 notebooks + 10 projects + 10 Streamlit apps &#x2014; RLHF, PPO, DQN, Meta-RL & more |
 | [&#x1F3AE; **RL Labs**](https://github.com/mlnjsh/rl-book-labs) | Interactive Reinforcement Learning labs in browser |
 | [&#x1F4DD; **DS Cheatsheets**](https://github.com/mlnjsh/data-science-cheatsheets) | 11 cheatsheets &#x2014; Python, SQL, ML, DL, Pandas |
 
