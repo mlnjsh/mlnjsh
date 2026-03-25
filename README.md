@@ -566,17 +566,39 @@ Context Engineering           █████████████░░░�
 
 ---
 
-### &#x1F3C6; GitHub Trophies
+### &#x1F3C6; Achievements
 
 <div align="center">
 
-<!-- Row 1: Main trophies with dark theme for visibility -->
-<img src="https://github-profile-trophy.vercel.app/?username=mlnjsh&theme=darkhub&column=7&margin-w=15&margin-h=15" width="95%"/>
+<img src="https://img.shields.io/badge/&#x1F4DA;_Repositories-80+-6C63FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/&#x1F4DD;_Publications-15+-dc2626?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/&#x1F3C6;_Best_Paper-ICIVC_2021-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/&#x1F917;_HF_Spaces-10_Apps-FF9D00?style=for-the-badge&labelColor=0d1117" />
 
 <br/>
 
-<!-- Row 2: Specific trophy highlights -->
-<img src="https://github-profile-trophy.vercel.app/?username=mlnjsh&theme=onestar&column=4&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,Followers" width="60%"/>
+<img src="https://img.shields.io/badge/&#x1F4E6;_PyPI-timesage--ts-3775A9?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/&#x1F52C;_SCI%2FSCIE-3_Papers-10b981?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/&#x1F4CA;_Impact_Factor-Up_to_3.89-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/&#x1F468;&#x200D;&#x1F3EB;_Teaching-ML%2FDL%2FRL%2FGenAI-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<!-- GitHub Stats Trophies - using reliable service -->
+<img src="https://github-trophies.vercel.app/?username=mlnjsh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+
+<!-- Fallback: badge-based achievements if trophy service is down -->
+<table>
+<tr>
+<td align="center"><img width="60" src="https://img.icons8.com/emoji/96/trophy-emoji.png"/><br/><b>80+</b><br/><sub>Repos</sub></td>
+<td align="center"><img width="60" src="https://img.icons8.com/emoji/96/star-emoji.png"/><br/><b>25+</b><br/><sub>Stars</sub></td>
+<td align="center"><img width="60" src="https://img.icons8.com/emoji/96/fire.png"/><br/><b>500+</b><br/><sub>Commits</sub></td>
+<td align="center"><img width="60" src="https://img.icons8.com/emoji/96/handshake-emoji.png"/><br/><b>14</b><br/><sub>Followers</sub></td>
+<td align="center"><img width="60" src="https://img.icons8.com/emoji/96/books-emoji.png"/><br/><b>15</b><br/><sub>Papers</sub></td>
+<td align="center"><img width="60" src="https://img.icons8.com/emoji/96/medal-emoji.png"/><br/><b>1st</b><br/><sub>Best Paper</sub></td>
+<td align="center"><img width="60" src="https://img.icons8.com/emoji/96/rocket-emoji.png"/><br/><b>10</b><br/><sub>HF Spaces</sub></td>
+</tr>
+</table>
 
 </div>
 
