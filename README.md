@@ -570,7 +570,13 @@ Context Engineering           █████████████░░░�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mlnjsh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+<!-- Row 1: Main trophies with dark theme for visibility -->
+<img src="https://github-profile-trophy.vercel.app/?username=mlnjsh&theme=darkhub&column=7&margin-w=15&margin-h=15" width="95%"/>
+
+<br/>
+
+<!-- Row 2: Specific trophy highlights -->
+<img src="https://github-profile-trophy.vercel.app/?username=mlnjsh&theme=onestar&column=4&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,Followers" width="60%"/>
 
 </div>
 
